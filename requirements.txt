@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+scikit-learn
+newspaper3k
+streamlit
+tqdm
+fuzzywuzzy
+python-Levenshtein

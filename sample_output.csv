@@ -1,0 +1,10 @@
+domain,company_name,industry,tech_stack,news_snippet,employee_count,lead_score
+stripe.com,Stripe,SaaS,"['React', 'Google Analytics']","Built for growth Take your start-up further, faster
+
+Startups build on Stripe to launch faster, adapt as they grow, and automate workflows to do more ",200,55
+zoho.com,Zoho,SaaS,"['Google Analytics', 'Firebase']","Your privacy is our responsibility
+
+We believe that trust is paramount in a relationship. We do not own or sell your data, and we most certainly do no",1000,55
+example.com,Example,Ecommerce,"['Firebase', 'Node.js']","Example Domain
+
+This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or aski",1000,55
